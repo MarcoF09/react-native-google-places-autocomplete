@@ -14,9 +14,9 @@ import {
   StyleSheet,
   Text,
   TextInput,
-  TouchableHighlight,
   View,
 } from 'react-native';
+import { TouchableHighlight } from 'react-native-gesture-handler';
 
 const WINDOW = Dimensions.get('window');
 
