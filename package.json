@@ -1,5 +1,5 @@
 {
-  "name": "MarcoF09/react-native-google-places-autocomplete",
+  "name": "@marcof09/react-native-google-places-autocomplete",
   "version": "1.8.2",
   "description": "Customizable Google Places autocomplete component for iOS and Android React-Native apps",
   "main": "GooglePlacesAutocomplete.js",
